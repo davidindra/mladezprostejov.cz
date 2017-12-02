@@ -217,12 +217,16 @@
         <h1>Fotogalerie</h1>
 
         <div class="tile">
-            <img src="img/galleries/1.jpg">
+            <a href="https://mladezprostejov.rajce.idnes.cz/Duchovni_obnova_2017/" target="_blank">
+                <img src="img/galleries/1.jpg">
+            </a>
             <div>Duchovní obnova 2017</div>
         </div>
 
         <div class="tile">
-            <img src="img/galleries/2.jpg">
+            <a href="https://mladezprostejov.rajce.idnes.cz/Cirkevni_silvestr_2016/" target="_blank">
+                <img src="img/galleries/2.jpg">
+            </a>
             <div>Církevní silvestr 2016</div>
         </div>
     </section>
