@@ -63,10 +63,6 @@
         <div id="calendar-wrapper">
             <table id="list">
                 <tr>
-                    <td>Crossna Prostějov</td>
-                    <td>15. 12.</td>
-                </tr>
-                <tr>
                     <td>Crossna</td>
                     <td>5. 1.</td>
                 </tr>
