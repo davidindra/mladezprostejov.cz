@@ -34,7 +34,7 @@
     </section>
 
     <section id="banner" class="noborder">
-        <img src="img/heading.jpg" alt="Banner MDP">
+        <img src="img/heading2.jpg" alt="Banner MDP">
     </section>
 
     <section id="main">
@@ -63,7 +63,7 @@
         <div id="calendar-wrapper">
             <table id="list">
                 <tr>
-                    <td>Crossna</td>
+                    <td>Crossna Prostějov</td>
                     <td>15. 12.</td>
                 </tr>
                 <tr>
@@ -127,7 +127,7 @@
                 Ráda trávím čas se svými přáteli. Když je chvilka, tak ráda čtu, dívám se na filmy a zajdu do divadla. Taky poslouchám hudbu, maluji, bruslím a plavu.
             </p>
             <p>
-                Být animátor pro mě znamená znamená být tu pro druhé a jsem ráda, že mohu tímto prostřednictvím sloužit Bohu. Také jsem skrze tuto službu poznala nové přátele a užila si s nimi spoustu legrace. Jednoduše mě baví dělat něco, co má smysl, a přivádět mladé k Bohu smysl má.
+                Být animátor pro mě znamená být tu pro druhé a jsem ráda, že mohu prostřednictvím tohoto sloužit Bohu. Také jsem skrze tuto službu poznala nové přátele a užila si s nimi spoustu legrace. Jednoduše mě baví dělat něco, co má smysl, a přivádět mladé k Bohu smysl má.
             </p>
         </div>
 
@@ -217,10 +217,24 @@
         <h1>Fotogalerie</h1>
 
         <div class="tile">
+            <a href="http://mladezprostejov.rajce.idnes.cz/Cirkevni_silvestr_2017/" target="_blank">
+                <img src="img/galleries/4.jpg">
+            </a>
+            <div>Církevní silvestr 2017</div>
+        </div>
+
+        <div class="tile">
             <a href="https://mladezprostejov.rajce.idnes.cz/Duchovni_obnova_2017/" target="_blank">
                 <img src="img/galleries/1.jpg">
             </a>
             <div>Duchovní obnova 2017</div>
+        </div>
+
+        <div class="tile">
+            <a href="https://mladezprostejov.rajce.idnes.cz/DSM_Brodek_2016/" target="_blank">
+                <img src="img/galleries/3.jpg">
+            </a>
+            <div>Děk. setkání mládeže v Brodku 2016</div>
         </div>
 
         <div class="tile">
@@ -229,6 +243,7 @@
             </a>
             <div>Církevní silvestr 2016</div>
         </div>
+
     </section>
 
     <section id="message">

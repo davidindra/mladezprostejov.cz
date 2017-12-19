@@ -99,14 +99,14 @@ body {
           font-size: 2em;
           vertical-align: 1.3em; }
     #container section#gallery .tile {
-      width: calc((100% - 4em) / 3);
+      width: calc((100% - 5em) / 3);
       display: inline-block;
       margin: 1em; }
-      #container section#gallery .tile:nth-child(1), #container section#gallery .tile:nth-child(2), #container section#gallery .tile:nth-child(3) {
+      #container section#gallery .tile:nth-of-type(-n + 3) {
         margin-top: 0; }
-      #container section#gallery .tile:nth-child(1n) {
+      #container section#gallery .tile:nth-of-type(3n + 1) {
         margin-left: 0; }
-      #container section#gallery .tile:nth-child(3n) {
+      #container section#gallery .tile:nth-of-type(3n + 3) {
         margin-right: 0; }
       #container section#gallery .tile img {
         width: 100%;

@@ -131,17 +131,17 @@ body
     &#gallery
 
       .tile
-        width: calc((100% - 4em) / 3)
+        width: calc((100% - 5em) / 3)
         display: inline-block
         margin: 1em
 
-        &:nth-child(1), &:nth-child(2), &:nth-child(3)
+        &:nth-of-type(-n + 3)
           margin-top: 0
 
-        &:nth-child(1n)
+        &:nth-of-type(3n + 1)
           margin-left: 0
 
-        &:nth-child(3n)
+        &:nth-of-type(3n + 3)
           margin-right: 0
 
         img
