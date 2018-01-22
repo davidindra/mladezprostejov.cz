@@ -3,6 +3,8 @@
     <meta charset="utf-8">
     <title>Mládež děkanátu Prostějov</title>
 
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;subset=latin-ext" rel="stylesheet">
     <script
         src="https://code.jquery.com/jquery-3.2.1.min.js"
