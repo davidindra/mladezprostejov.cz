@@ -29,7 +29,7 @@
                 <li><a href="#main">Úvod</a></li>
                 <li><a href="#calendar">Plán akcí</a></li>
                 <li><a href="#team">Animátoři</a></li>
-                <li><a href="#gallery">Galerie</a></li>
+                <li><a href="#gallery">Fotogalerie</a></li>
                 <li><a href="#message">Napiš nám!</a></li>
             </ul>
         </div>
