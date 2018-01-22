@@ -66,10 +66,6 @@
             <table id="list">
                 <tr>
                     <td>Crossna</td>
-                    <td>5. 1.</td>
-                </tr>
-                <tr>
-                    <td>Crossna</td>
                     <td>2. 2.</td>
                 </tr>
                 <tr>
