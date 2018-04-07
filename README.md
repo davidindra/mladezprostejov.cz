@@ -1,12 +1,10 @@
-# Mládež děkanátu Prostějov
+MladezProstejov.cz
+==================
 
-- simple design, simple purpose
+- web rimskokatolicke mladeze v Prostejove a okoli
 
-## Basic needs for improving
+Technologie
+===========
 
-- Sass compiler
-- text editor :)
-
-## License
-
-- Use as you wish :) If possible, refer to the original webpage.
+- zalozeno na PHP, Nette, Doctrine
+- hostovano na Linuxu

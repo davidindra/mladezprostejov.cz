@@ -1,1 +1,7 @@
 .idea/
+
+composer.phar
+
+app/config/config.local.neon
+vendor/
+!vendor/.htaccess
