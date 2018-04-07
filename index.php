@@ -66,18 +66,6 @@
             <table id="list">
                 <tr>
                     <td>Crossna</td>
-                    <td>2. 2.</td>
-                </tr>
-                <tr>
-                    <td>Postní duchovní obnova</td>
-                    <td>17. 2.</td>
-                </tr>
-                <tr>
-                    <td>Crossna</td>
-                    <td>2. 3.</td>
-                </tr>
-                <tr>
-                    <td>Crossna</td>
                     <td>6. 4.</td>
                 </tr>
                 <tr>
@@ -86,7 +74,7 @@
                 </tr>
                 <tr>
                     <td>Crossna</td>
-                    <td>1. 6.</td>
+                    <td>8. 6.</td>
                 </tr>
             </table>
 
@@ -143,7 +131,7 @@
 
         <div class="one">
             <div class="header">
-                <img src="img/team/andrea-batkova.jpeg" alt="">
+                <img src="img/team/andrea-batkova.jpg" alt="">
                 <div class="name">
                     <div class="first">Andrea</div>
                     <div class="last">Baťková</div>
@@ -204,11 +192,160 @@
                 Animátorem jsem se stal, jelikož mi dělal starosti stav křesťanské mládeže v našem děkanátu a já jsem cítil, že bych mohl pro druhé udělat něco navíc. Viděl jsem v tom také příležitost poznat nové lidi a získat zkušenosti s organizací společenských událostí.
             </p>
         </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/vojtech-kapounek.jpg" alt="">
+                <div class="name">
+                    <div class="first">Vojtěch</div>
+                    <div class="last">Kapounek</div>
+                </div>
+            </div>
+            <p>
+                Mými zájmy je mediální tvorba, hudba, sporty a přátelé.
+            </p>
+            <p>
+                Animátorem jsem, protože jsem rád mezi křesťanskými lidmi a rád pomohu tvořit tým animátorů.
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/patrik-lonicek.jpg" alt="">
+                <div class="name">
+                    <div class="first">Patrik</div>
+                    <div class="last">Loníček</div>
+                </div>
+            </div>
+            <p>
+                Svůj volný čas rád trávím v hasičské zbrojnici, či hrou na kytaru. Dále také si rád vyjedu na kole nebo vyjdu na procházku do lese, kde se odreaguji a přitom mohu být osamotě s Bohem - neskutečně to pomáhá, mohu vřele doporučit.
+            </p>
+            <p>
+                Animátor jsem, protože mě baví pomáhat a vytvářet příhodné prostředí pro vyrůstající lidi ve víře. Sám si moc dobře pamatuji, jak mi pár lidí pomohlo přiblížit víru a tak touto službou mohu pomáhat dalším lidem.
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/eliska-lonickova.jpg" alt="">
+                <div class="name">
+                    <div class="first">Eliška</div>
+                    <div class="last">Loníčková</div>
+                </div>
+            </div>
+            <p>
+                Většinu svého volného času trávím s přáteli nebo s rodinou. Mám ráda hudbu, nejraději hraji na příčnou flétnu. Také ráda sportuji a tvořím. Ale všechno jen tak pro radost :)
+            </p>
+            <p>
+                Animátor jsem, protože mě baví podílet se na akcích děkanátu a pomáhat vytvářet dobré prostředí pro růst našich osobností. Chci být člověkem, který kolem sebe probouzí život. Akce prostějovského děkanátu mě osobně dost posunuli ve víře... a tak můžu i já tímto způsobem pomáhat :)
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/stella-kordzik.jpg" alt="">
+                <div class="name">
+                    <div class="first">Veronika Stella</div>
+                    <div class="last">Kordzik</div>
+                </div>
+            </div>
+            <p>
+                Mými zájmy je trávení času s rodinou a přáteli, florbal a čtení knih.
+            </p>
+            <p>
+                Ráda trávím čas s lidmi. Chtěla bych pořádat s dalšími animátory akce, na kterých se všichni sejdeme. Pomáhala jsem na církevním silvestru, po silvestru mě a další nováčky přijali, abychom se stali animátory a moc jim za to děkuji :)
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/katerina-lonickova.jpg" alt="">
+                <div class="name">
+                    <div class="first">Kateřina</div>
+                    <div class="last">Loníčková</div>
+                </div>
+            </div>
+            <p>
+                Četba knih, jizda na bruslích, sledování filmů...
+            </p>
+            <p>
+                Protože mě to baví - ráda pracuji pro mládež. Naplňuje mě to :)
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/anna-buresova.jpg" alt="">
+                <div class="name">
+                    <div class="first">Anna</div>
+                    <div class="last">Burešová</div>
+                </div>
+            </div>
+            <p>
+                Mám ráda sport. Hlavně plavání, lezení na umělé stěně a taky běhání. Baví mě hrát na kytaru a na flétnu. Ráda bych se naučila hrát na ukulele, které mám doma :)
+            </p>
+            <p>
+                Hlavně proto, že bych chtěla být součástí animátorského týmu a aktivně se podílet na akcích našeho děkanátu, protože si myslím, že tak můžu prožívat tyto akce zase z jiného pohledu a třeba si je i více užít. Zatím jsem byla na všech akcích jako účastník a myslím, že je vhodná doba udělat teď zase něco pro ostatní :)
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/nikola-sevrova.jpg" alt="">
+                <div class="name">
+                    <div class="first">Nikola</div>
+                    <div class="last">Ševrová</div>
+                </div>
+            </div>
+            <p>
+                Ráda tancuji, cestuji a dívám se na filmy.
+            </p>
+            <p>
+                Protože ráda pořádám akce pro ostatní, ráda trávím čas s lidmi a bavím se s nimi.
+            </p>
+        </div>
+
+        <div class="one">
+            <div class="header">
+                <img src="img/team/david-indra.jpg" alt="">
+                <div class="name">
+                    <div class="first">David</div>
+                    <div class="last">Indra</div>
+                </div>
+            </div>
+            <p>
+                Ve svém volnočase se věnuji především hraní na varhany a "věcem okolo techniky", protože mě to moc baví :)
+            </p>
+            <p>
+                Stal jsem se animátorem (krom toho, že mě přizvali do týmu) proto, že jsem smutněl ze stavu křesťanské mládeže v Prostějově a okolí. Každou chvíli narážím na mladé lidi, kteří by se rádi nějakých křesťanských akcí zúčastnili, ale o těch, které v děkanátu probíhají se vůbec nedozví - a to je přesně věc, kterou bych rád pomohl změnit :)
+            </p>
+        </div>
         
     </section>
 
     <section id="gallery">
         <h1>Fotogalerie</h1>
+
+        <div class="tile">
+            <a href="http://mladezprostejov.rajce.idnes.cz/Spolco_Kostelec_na_Hane_2._3._2018/" target="_blank">
+                <img src="img/galleries/7.jpg">
+            </a>
+            <div>Crossna 2. 3. 2018</div>
+        </div>
+
+        <div class="tile">
+            <a href="https://mladezprostejov.rajce.idnes.cz/Duchovni_obnova_2018/" target="_blank">
+                <img src="img/galleries/6.jpg">
+            </a>
+            <div>Duchovní obnova 2018</div>
+        </div>
+
+        <div class="tile">
+            <a href="http://mladezprostejov.rajce.idnes.cz/Spolco_Pivin_2._2._2018/" target="_blank">
+                <img src="img/galleries/5.jpg">
+            </a>
+            <div>Crossna 2. 2. 2018</div>
+        </div>
 
         <div class="tile">
             <a href="http://mladezprostejov.rajce.idnes.cz/Cirkevni_silvestr_2017/" target="_blank">
@@ -228,7 +365,7 @@
             <a href="https://mladezprostejov.rajce.idnes.cz/DSM_Brodek_2016/" target="_blank">
                 <img src="img/galleries/3.jpg">
             </a>
-            <div>Děk. setkání mládeže v Brodku 2016</div>
+            <div>DSM v Brodku 2016</div>
         </div>
 
         <div class="tile">
@@ -275,7 +412,7 @@
     </section>
 
     <section id="copyright">
-        &copy; 2017 David Indra, <a href="mailto:mail@davidindra.cz">mail@davidindra.cz</a>
+        &copy; 2018 David Indra, <a href="mailto:mail@davidindra.cz">mail@davidindra.cz</a>
     </section>
 
     <?php
